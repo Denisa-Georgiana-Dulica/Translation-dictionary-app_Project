@@ -1,7 +1,0 @@
-Baza de date avea:
-pentru cuvintele cu mai multe sensuri (ex toc)
-CUV ROM  CUV ENGLEZA     SENS       CAPITOL       TIP          SINONIME
-TOC	  HEEL        DE LA PANTOF     T      SUBSTANTIV       PLATFORMA
-TOC       CASE        CUTIE OCHALARI   T      SUBSTANTIV       CARCASA
-
-TOATE ERAU NOT NULL , IN AFAR DE SINONIME CARE PUTEAU SA FIE NULL
