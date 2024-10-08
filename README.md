@@ -14,9 +14,11 @@ Interfaces:
 8. the "See suggestions" function to see other dictionary options from stores
 9. graphic based on words that have a certain number of meanings.
 10.exit button from the application
+![Captură de ecran 2024-10-08 225635](https://github.com/user-attachments/assets/e9976669-bc78-4761-8c89-0d0fec306e93)
 
 # Form2
 When we click on a word from DataGrigView (Form1), this Form2 will open that shows the meanings of the selected word and other specifications such as the English translation, synonyms, word type, etc. (using data binding).
+![Captură de ecran 2024-10-08 225647](https://github.com/user-attachments/assets/fd785a9d-1371-4c17-8e14-f6fe17943e86)
 
 # Form3
 1.When you click on the "See suggestions" button in Form1, Form3 will open in which you will find a ListBox with certain dictionaries that we can find on online sites; 
@@ -26,6 +28,7 @@ When we click on a word from DataGrigView (Form1), this Form2 will open that sho
 5.In the same way, you can see the wishlist by selecting the "View wishlist" menu option, which restores the data in a ListView;
 6.At the end, the total price is automatically calculated for all the books in the wishlist.
 Note: all data with suggested dictionaries, sites, authors, library can be found in the XML file;
+![Captură de ecran 2024-10-08 225701](https://github.com/user-attachments/assets/9155475b-566b-4fc3-8971-574a667c54c2)
 
 # Form4
 1.All insertion, update and deletion operations take place if you click on the update/insert/delete buttons in Form1 and click on the word header in DataGridView.
@@ -34,6 +37,7 @@ Note: the database will also update;
 3.For updating, certain fields of the chosen word cannot be updated (eg: id, chapter);
 4.To delete a word the first time, the user must choose from a ComboBox the specific meaning of the word he wants to delete;
 5.There are buttons to add/delete a synonym for a word;
+![Captură de ecran 2024-10-08 225711](https://github.com/user-attachments/assets/502f893d-4624-474d-9a00-11ef1cd7a485)
 
 # Form5
 Form5 can be reached by clicking on the "Graph" button in Form1. 
@@ -42,3 +46,5 @@ Form5 can be reached by clicking on the "Graph" button in Form1.
 3.There is a pie chart;
 4.There is Graph (using panel);
 5.Graphic printing;
+![Captură de ecran 2024-10-08 225752](https://github.com/user-attachments/assets/5ca65765-2b52-4f6c-b4aa-308e0bc651dd)
+![Captură de ecran 2024-10-08 225744](https://github.com/user-attachments/assets/4301fbda-ba43-4b5f-8073-f4b5bd4f05c1)
