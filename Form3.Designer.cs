@@ -76,7 +76,7 @@
             this.myWishListToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(964, 30);
+            this.menuStrip1.Size = new System.Drawing.Size(964, 28);
             this.menuStrip1.TabIndex = 1;
             this.menuStrip1.Text = "menuStrip1";
             // 
@@ -87,7 +87,7 @@
             this.saveToWishListToolStripMenuItem,
             this.veziWishListToolStripMenuItem});
             this.myWishListToolStripMenuItem.Name = "myWishListToolStripMenuItem";
-            this.myWishListToolStripMenuItem.Size = new System.Drawing.Size(97, 26);
+            this.myWishListToolStripMenuItem.Size = new System.Drawing.Size(97, 24);
             this.myWishListToolStripMenuItem.Text = "MyWishList";
             // 
             // saveToWishListToolStripMenuItem
