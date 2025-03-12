@@ -55,3 +55,7 @@ Behind the application the "dictionary" is based on a database.
 ![Captură de ecran 2024-10-08 225752](https://github.com/user-attachments/assets/5ca65765-2b52-4f6c-b4aa-308e0bc651dd)
 
 ![Captură de ecran 2024-10-08 225744](https://github.com/user-attachments/assets/4301fbda-ba43-4b5f-8073-f4b5bd4f05c1)
+
+💥 This database is a bilingual Romanian-English dictionary that includes words with their English equivalents, multiple meanings, grammatical type, thematic chapter, and synonyms. 
+It also contains words that look similar or have more than one meaning, helping users understand and translate words based on their context.
+![image](https://github.com/user-attachments/assets/5a37cc54-e2fd-435a-b642-0e67bbc76437)
